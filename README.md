@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a personal project**
 
-- 🌱 I’m currently learning **React,Typescript**
+- 🌱 I’m currently learning **Next js,Typescript**
 
 - 👯 I’m looking to collaborate on **front-End open source projects**
 
