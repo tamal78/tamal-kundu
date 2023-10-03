@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tamalkundu2002@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://tamal78.vercel.app/)
+- 📄 Know about my experiences: [Portfolio](https://tamal78.vercel.app/)
 
 - ⚡ Fun fact **I love dogs!**
 
