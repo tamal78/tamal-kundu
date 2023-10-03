@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **react,node**
 
-- 📫 How to reach me **tamalkundu200@gmail.com**
+- 📫 How to reach me **tamalkundu2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f0bjgLFGnj9rtrD0Eh62G3FvYSBVyh4-/view?usp=sharing](https://drive.google.com/file/d/1f0bjgLFGnj9rtrD0Eh62G3FvYSBVyh4-/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://tamal78.vercel.app/)
 
 - ⚡ Fun fact **I love dogs!**
 
